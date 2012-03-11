@@ -114,7 +114,7 @@ DEPENDENCIES
   coffee-rails (= 3.2.2)
   compass-rails
   jquery-rails (= 2.0.0)
-  rails
+  rails (= 3.2.2)
   sass-rails (= 3.2.4)
   sqlite3 (= 1.3.5)
   uglifier (= 1.2.3)
